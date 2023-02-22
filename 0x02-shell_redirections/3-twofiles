@@ -1,0 +1,2 @@
+#!/bin/bashca
+cat /etc/passwd /etc/hosts
